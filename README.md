@@ -5,7 +5,7 @@
 - [MicroEmacs 2026](https://github.com/bjasspa/jasspa) - MicroEmacs fork acitely maintained
 - [MicroEmacs 2009](https://github.com/mittelmark/microemacs) - fallback option for older system, still maintained
 
-## R packagages
+## R packages
 
 - [enrigo](https://github.com/mittelmark/) - R package for the Enrichment analysis for Gene Ontology and other terms
 - [hanna](https://github.com/mittelmark/hanna) - R simulation package for social network paper [Hermanussen et al. 2023](https://www.nature.com/articles/s41598-023-41225-y) 
@@ -17,18 +17,18 @@
 
 ## Tcl applications and packages
 
-- [chess4tcl](https://github.com/mittelmark/) - Tcl pakcage to work with PNG files using the chess.js javascript library
+- [chess4tcl](https://github.com/mittelmark/) - Tcl pakcage to work with PGN files using the chess.js javascript library
 - [citer](https://github.com/mittelmark/citer) - Tcl package to work with BibTeX files
 - [hyperhelp](https://github.com/mittelmark/hyperhelp) - Hypertext help widget which can be used to display Markdown like help files
 - [kroki4tcl](https://github.com/mittelmark/kroki4tcl) - package and CLI and GUI application to create diagrams using the kroki.io webservice
+- [mndoc](https://github.com/mittelmark/mndoc) - Markdown to HTML converter package and application, can as well extract Markdown API documentation from source code
 - [oowidgets](https://github.com/mittelmark/) - Tcl package to create megawidgets using TclOO
 - [ptlex](https://github.com/mittelmark/ptlex) - Tcl lexer generator to create lexers for Tcl, Perl, Python, Ruby, R ...
-- [tblocks](https://github.com/mittelmark/tblocks] - Tcl package and application to create flow chart like diagrams from Markdown code
+- [tblocks](https://github.com/mittelmark/tblocks) - Tcl package and application to create flow chart like diagrams from Markdown code
 - [tclmain](https://github.com/mittelmark/tclmain) - package runner using the approach of `python3 -m modulename`
+- [tcrd](https://github.com/mittelmark/tcrd) - Chord diagram and Chord sheet generator
 - [thtmlview](https://github.com/mittelmark/thtmlview) - hypertext widget to display simple HTML files within your application - not a web browser!
 - [tmdoc](https://github.com/mittelmark/tmdoc) - Tcl package and application for embedding programming languages like R, Python, Octave etc or diagram languages like GraphViz, PlantUML etc into Markdown document
-- [mndoc](https://github.com/mittelmark/mndoc) - Markdown to HTML converter package and application, can as well extract Markdown API documentation from source code
-- [tcrd](https://github.com/mittelmark/tcrd) - Chord diagram and Chord sheet generator
 - [tpack](https://github.com/mittelmark/tpack) - create single file Tcl scripts from a set of Tcl code files
 - [tsvg](https://github.com/mittelmark/tsvg) - Tcl package to write SVG files in an Tcl-way
 - [tdot](https://github.com/mittelmark/tdot) - Tcl package to write GraphViz dot files more easily
